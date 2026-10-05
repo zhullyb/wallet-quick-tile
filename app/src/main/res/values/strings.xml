@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallet Quick Tile</string>
+    <string name="tile_label">Wallet</string>
+    <string name="app_description">Add the Wallet tile to Quick Settings. Tapping it opens Android’s system page for choosing the default Wallet app.</string>
+    <string name="add_tile">Add Wallet tile</string>
+    <string name="manual_add_tile">Swipe down twice, tap Edit, then drag “Wallet” into your active Quick Settings tiles.</string>
+    <string name="privacy_note">No NFC, payment, Wallet, or network permission is requested. This app only opens a system settings page.</string>
+    <string name="tile_added">Wallet tile added.</string>
+    <string name="tile_already_added">Wallet tile is already added.</string>
+    <string name="tile_not_added">Wallet tile was not added.</string>
+    <string name="tile_request_failed">Could not request the tile. Add it manually from Quick Settings.</string>
+    <string name="tile_request_unavailable">The system tile request service is unavailable.</string>
+    <string name="wallet_settings_unavailable">Wallet settings are not available on this device.</string>
+</resources>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallet 快捷磁贴</string>
+    <string name="tile_label">Wallet</string>
+    <string name="app_description">将 Wallet 磁贴添加到快捷设置。点击磁贴即可打开 Android 系统的默认 Wallet 应用选择页面。</string>
+    <string name="add_tile">添加 Wallet 磁贴</string>
+    <string name="manual_add_tile">完全展开快捷设置，点击“编辑”，然后把“Wallet”拖到已启用的磁贴区域。</string>
+    <string name="privacy_note">本应用不申请 NFC、支付、Wallet 或网络权限，只负责打开系统设置页面。</string>
+    <string name="tile_added">已添加 Wallet 磁贴。</string>
+    <string name="tile_already_added">Wallet 磁贴已经添加。</string>
+    <string name="tile_not_added">未添加 Wallet 磁贴。</string>
+    <string name="tile_request_failed">无法请求添加磁贴，请从快捷设置中手动添加。</string>
+    <string name="tile_request_unavailable">系统的磁贴请求服务不可用。</string>
+    <string name="wallet_settings_unavailable">此设备不提供 Wallet 设置页面。</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.WalletQuickTile.Headline" parent="android:style/TextAppearance.Material.Headline">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.WalletQuickTile.Body" parent="android:style/TextAppearance.Material.Body1">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="TextAppearance.WalletQuickTile.Caption" parent="android:style/TextAppearance.Material.Caption">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+</resources>
+
